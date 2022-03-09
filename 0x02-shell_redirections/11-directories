@@ -1,0 +1,2 @@
+#!/bin/bash
+ls --almost-all --recursive --file-type | grep --count [/]$
